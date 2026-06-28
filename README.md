@@ -70,7 +70,7 @@
     <section class="bg-tu-pink-light py-16 px-4">
         <div class="max-w-4xl mx-auto text-center">
             <h2 class="text-3xl md:text-5xl font-bold text-gray-800 mb-6 leading-tight">
-                คลังจำลองข้อสอบเข้าฉบับจริง <br> <span class="text-tu-pink-dark">โรงเรียนเตรียมอุดมศึกษา</span>
+                คลังข้อสอบเข้าฉบับจริง <br> <span class="text-tu-pink-dark">โรงเรียนเตรียมอุดมศึกษา</span>
             </h2>
             <p class="text-lg md:text-xl text-gray-700 bg-white/80 inline-block p-4 rounded-xl shadow-sm border-l-4 border-tu-pink-dark">
                 "แนวข้อสอบทุกชุดออกโดยทางเตรียมอุดมศึกษาทุกชุด เพื่อให้เด็กทุกคนมีสิทธิ์เตรียมตัวเข้าสอบโรงเรียนเตรียมอุดมศึกษาเท่าเทียมกัน"
@@ -98,7 +98,7 @@
     <footer class="bg-white border-t border-gray-200 mt-auto py-10">
         <div class="text-center">
             <h3 class="text-3xl font-bold text-tu-pink-dark">"ขอให้โชคดีกับการสอบเข้า"</h3>
-            <p class="text-gray-400 text-sm mt-4">&copy; รวบรวมและจำลองข้อสอบฉบับจริงสำหรับเตรียมตัวสอบเข้าโรงเรียนเตรียมอุดมศึกษา</p>
+            <p class="text-gray-400 text-sm mt-4">&copy; รวบรวมข้อสอบฉบับจริงสำหรับเตรียมตัวสอบเข้าโรงเรียนเตรียมอุดมศึกษา</p>
         </div>
     </footer>
 
@@ -167,7 +167,7 @@
                             <a href="#" class="flex items-center gap-3 p-3 rounded-xl border border-gray-100 bg-gray-50 hover:bg-tu-pink-light hover:border-tu-pink transition-all group">
                                 <div class="text-3xl group-hover:scale-110 transition-transform">📄</div>
                                 <div class="flex flex-col">
-                                    <span class="font-semibold text-gray-700 group-hover:text-tu-pink-dark text-sm">จำลองข้อสอบฉบับจริง_${subject}.pdf</span>
+                                    <span class="font-semibold text-gray-700 group-hover:text-tu-pink-dark text-sm">ข้อสอบฉบับจริง_${subject}.pdf</span>
                                     <span class="text-xs text-gray-500">ปีการศึกษา ${year}</span>
                                 </div>
                                 <div class="ml-auto text-gray-300 group-hover:text-tu-pink-dark">
